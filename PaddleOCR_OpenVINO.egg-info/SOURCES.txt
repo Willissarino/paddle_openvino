@@ -1,0 +1,13 @@
+MANIFEST.in
+requirements.txt
+setup.py
+PaddleOCR_OpenVINO.egg-info/PKG-INFO
+PaddleOCR_OpenVINO.egg-info/SOURCES.txt
+PaddleOCR_OpenVINO.egg-info/dependency_links.txt
+PaddleOCR_OpenVINO.egg-info/requires.txt
+PaddleOCR_OpenVINO.egg-info/top_level.txt
+paddle_ocr/__init__.py
+paddle_ocr/ocr.py
+paddle_ocr/pre_post_processing.py
+paddle_ocr/data/font/simfang.ttf
+paddle_ocr/data/text/ppocr_keys_v1.txt

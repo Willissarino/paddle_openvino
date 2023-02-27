@@ -1,0 +1,5 @@
+include requirements.txt
+include setup.py
+include paddle_ocr/data/font/simfang.ttf
+include paddle_ocr/data/text/ppocr_keys_v1.txt
+recursive-exclude __pycache__ *
