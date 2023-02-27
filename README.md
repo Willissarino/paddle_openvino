@@ -11,7 +11,7 @@ A PaddleOCR library optimized by using OpenVINO in intel based system for faster
 To install this library (Use Pip)
 
 ```bash
-  git clone "repo link"
+  git clone "https://github.com/Willissarino/paddle_openvino.git"
   cd paddle_openvino
   pip install -e .[dev]
 ```
