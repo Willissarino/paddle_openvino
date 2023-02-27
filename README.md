@@ -12,6 +12,7 @@ To install this library (Use Pip)
 
 ```bash
   git clone "repo link"
+  cd paddle_openvino
   pip install -e .[dev]
 ```
 
