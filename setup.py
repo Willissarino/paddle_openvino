@@ -18,8 +18,6 @@ setup(
         'nncf==2.4.0',
         'tensorflow>=2.5',
         'tensorflow-datasets==4.2.0',
-        'torch==1.13.1',
-        'torchvision==0.14.1',
         'torchmetrics>=0.11.0',
         'pytorch-lightning',
         
