@@ -1,4 +1,5 @@
 MANIFEST.in
+README.md
 requirements.txt
 setup.py
 PaddleOCR_OpenVINO.egg-info/PKG-INFO
