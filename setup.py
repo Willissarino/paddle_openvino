@@ -16,10 +16,6 @@ setup(
         'openvino-telemetry==2022.3.0',
         
         'nncf==2.4.0',
-        'tensorflow>=2.5',
-        'tensorflow-datasets==4.2.0',
-        'torchmetrics>=0.11.0',
-        'pytorch-lightning',
         
         'paddlepaddle>=2.4.0',
         'paddle2onnx>=0.6',
@@ -32,7 +28,6 @@ setup(
         'librosa>=0.8.1',
         'shapely>=1.7.1',
         'pyclipper>=1.2.1',
-        'psutil',
         'gdown',
         'yaspin',
         ],

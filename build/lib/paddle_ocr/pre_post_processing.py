@@ -12,7 +12,6 @@ import string
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from shapely.geometry import Polygon
-#from paddle.nn import functional as F
 
 package_directory = Path(__file__).parent
 
